@@ -1,0 +1,2 @@
+2020-03-25 19:39:52.4852           Trace: Program.Main            init main
+2020-03-25 19:39:54.4697           Trace: <no type>.lambda_method => UserController.Get => DataRepository.GetAll            getAll user

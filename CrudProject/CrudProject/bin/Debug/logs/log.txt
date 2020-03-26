@@ -1,0 +1,24 @@
+2020-03-25 17:34:27.2186|DEBUG|CrudProject.Program|init main
+2020-03-25 17:34:29.0830|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-25 17:34:29.1456|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-25 17:34:29.1456|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\מחשב\Documents\CrudProject\CrudProject
+2020-03-25 18:10:01.6243|DEBUG|CrudProject.Program|init main
+2020-03-25 18:10:03.3344|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-25 18:10:03.3344|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-25 18:10:03.3567|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\מחשב\Documents\CrudProject\CrudProject
+2020-03-25 18:10:03.6909|INFO|CrudProject.Dal.DataRepository|getAll user
+2020-03-25 18:12:01.7016|DEBUG|CrudProject.Program|init main
+2020-03-25 18:12:03.4388|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-25 18:12:03.4647|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-25 18:12:03.4837|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\מחשב\Documents\CrudProject\CrudProject
+2020-03-25 18:12:03.7996|INFO|CrudProject.Dal.DataRepository|getAll user
+2020-03-25 18:40:57.8324|DEBUG|CrudProject.Program|init main
+2020-03-25 18:41:01.9071|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-25 18:41:01.9237|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-25 18:41:01.9419|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\מחשב\Documents\CrudProject\CrudProject
+2020-03-25 18:41:02.5419|INFO|CrudProject.Dal.DataRepository|getAll user
+2020-03-25 19:01:17.7382|DEBUG|CrudProject.Program|init main
+2020-03-25 19:01:19.4458|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-25 19:01:19.4672|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-25 19:01:19.4824|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\מחשב\Documents\CrudProject\CrudProject
+2020-03-25 19:01:19.7746|INFO|CrudProject.Dal.DataRepository|getAll user

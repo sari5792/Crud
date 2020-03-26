@@ -1,0 +1,2 @@
+2020-03-25 19:42:36.7639|DEBUG|CrudProject.Program|init main
+2020-03-25 19:42:38.8258|INFO|CrudProject.Dal.DataRepository|getAll user
